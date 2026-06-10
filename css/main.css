@@ -1,4 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap');
+@font-face {
+    font-family: 'Fredoka';
+    src: url('/fonts/Fredoka-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Подключаем жирный шрифт из корня */
+@font-face {
+    font-family: 'Fredoka';
+    src: url('/fonts/Fredoka-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
 
 * {
     margin: 0;
