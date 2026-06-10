@@ -5,7 +5,7 @@ Skins trade link => https://steamcommunity.com/tradeoffer/new/?partner=168419021
 <br>
 Paypal => https://paypal.me/lielxd
 
-### Please download the website from the releases section.
+
 
 ## Requirements
 * Webserver
