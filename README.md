@@ -1,12 +1,3 @@
--------
-# SUPPORT ISRAEL 🤍💙
--------
-
-## Preview Website
-link => https://cs2.lielxd.com/
-
-## Link to the plugin (big credit to them)
-link => https://github.com/Nereziel/cs2-WeaponPaints
 
 ## Donations
 any donation would be appreciated.<br>
