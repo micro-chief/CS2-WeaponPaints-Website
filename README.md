@@ -22,6 +22,9 @@ The main feature of this build is **100% autonomy**. The website is perfectly op
 
 ## 📋 Requirements
 
+* **Plugin:**<br>
+ [WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) installed
+
 * **Webserver:**
   * **Apache:** Use the included `.htaccess` file (make sure `mod_rewrite` is enabled in XAMPP/Apache config).
   * **Nginx:** Add this location block inside your `server { ... }` configuration file:
@@ -58,6 +61,10 @@ The main feature of this build is **100% autonomy**. The website is perfectly op
 3. ⚠️ **Важное примечание по графике:** Чтобы на сайте отображались картинки предметов, скачайте папку из оригинального репозитория — [website/img/skins](https://github.com/Nereziel/cs2-WeaponPaints/tree/main/website/img/skins). К сожалению, доступны не все изображения (например, отсутствуют некоторые перчатки).
 
 ##  Требования
+
+*  **Плагин**<br>
+  [WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) Установлен
+
 * **Веб-сервер:**
   * **Apache:** Используйте встроенный файл `.htaccess` (убедитесь, что модуль `mod_rewrite` включен в настройках XAMPP/Apache).
   * **Nginx:** Добавьте этот блок конфигурации внутрь секции `server { ... }` вашего `.conf` файла:
