@@ -1,3 +1,4 @@
+To display images on the site, download the folder from the repository - [website/img/skins](https://github.com/Nereziel/cs2-WeaponPaints/tree/main/website/img/skins)
 
 ## Donations
 any donation would be appreciated.<br>
